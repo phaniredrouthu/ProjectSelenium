@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38674" started-at="2020-07-10T18:38:32Z" finished-at="2020-07-10T18:39:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38674" started-at="2020-07-10T18:38:32Z" finished-at="2020-07-10T18:39:11Z">
+      <class name="pageTesting.MainpageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pageTesting.MainpageTest@31610302]" name="setUp" is-config="true" duration-ms="28221" started-at="2020-07-10T18:38:32Z" finished-at="2020-07-10T18:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:pageTesting.MainpageTest@31610302]" name="loginTest" duration-ms="9117" started-at="2020-07-10T18:39:00Z" finished-at="2020-07-10T18:39:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:pageTesting.MainpageTest@31610302]" name="close" is-config="true" duration-ms="1222" started-at="2020-07-10T18:39:09Z" finished-at="2020-07-10T18:39:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- pageTesting.MainpageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
